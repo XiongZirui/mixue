@@ -1,1 +1,10 @@
 # list requirements here
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scipy
+scikit-learn
+openpyxl
+missingno
