@@ -1,4 +1,5 @@
 # list requirements here
+# how to use: run in terminal: pip install -r requirements.txt
 pandas
 numpy
 matplotlib
