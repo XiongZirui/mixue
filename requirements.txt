@@ -1,12 +1,7 @@
-# list requirements here
-# how to use: run in terminal: pip install -r requirements.txt
-pandas
 numpy
+pandas
 matplotlib
 seaborn
 statsmodels
 scipy
 scikit-learn
-openpyxl
-missingno
-Jinja2
